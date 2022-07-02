@@ -12,6 +12,7 @@ Now, let's execute the Game with the binary file generated:
 
 ```bash
 ./bomberman
+```
 
 Yes, You are now on the Game! The 4 or less Multiplayer mode is available too, so have fun !
 
