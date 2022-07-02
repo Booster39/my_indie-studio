@@ -21,6 +21,8 @@ The Player1:
 To move: Simply Right, Left, Up and Down keys  
 To lay a bomb: Ctrl second button  
 
+Other players:  Let's Guess !!!
+
 # Contributors
 Made with:  
 Henry NGuyen: chanh-long-henry.nguyen@epitech.eu  
