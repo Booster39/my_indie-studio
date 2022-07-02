@@ -1,5 +1,6 @@
 # my_indie-studio
 An Oriented Object Programming code that gave birth to a marvelous game:   A Bomberman  Final EPITECH Project  
+![bomberman](https://user-images.githubusercontent.com/84536283/177008972-93c6c0b5-03fb-422e-9828-a791601b5026.png)
 
 # Usage
 First, we have to compile the code with cmake in the CLI:
